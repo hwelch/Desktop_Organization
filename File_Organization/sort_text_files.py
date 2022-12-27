@@ -1,6 +1,6 @@
 import os
 
-# python script to organize files in a dirrectory
+# python script to organize files in a directory
 # places the .pdf, .txt, and .docx files in one folder and all other types in another
 
 
